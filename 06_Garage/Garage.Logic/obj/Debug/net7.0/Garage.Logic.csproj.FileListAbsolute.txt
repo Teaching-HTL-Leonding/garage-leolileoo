@@ -1,0 +1,11 @@
+/Users/leo/Documents/Programmieren/PROO/CS/06_Garage/Garage.Logic/bin/Debug/net7.0/Garage.Logic.deps.json
+/Users/leo/Documents/Programmieren/PROO/CS/06_Garage/Garage.Logic/bin/Debug/net7.0/Garage.Logic.dll
+/Users/leo/Documents/Programmieren/PROO/CS/06_Garage/Garage.Logic/bin/Debug/net7.0/Garage.Logic.pdb
+/Users/leo/Documents/Programmieren/PROO/CS/06_Garage/Garage.Logic/obj/Debug/net7.0/Garage.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leo/Documents/Programmieren/PROO/CS/06_Garage/Garage.Logic/obj/Debug/net7.0/Garage.Logic.AssemblyInfoInputs.cache
+/Users/leo/Documents/Programmieren/PROO/CS/06_Garage/Garage.Logic/obj/Debug/net7.0/Garage.Logic.AssemblyInfo.cs
+/Users/leo/Documents/Programmieren/PROO/CS/06_Garage/Garage.Logic/obj/Debug/net7.0/Garage.Logic.csproj.CoreCompileInputs.cache
+/Users/leo/Documents/Programmieren/PROO/CS/06_Garage/Garage.Logic/obj/Debug/net7.0/Garage.Logic.dll
+/Users/leo/Documents/Programmieren/PROO/CS/06_Garage/Garage.Logic/obj/Debug/net7.0/refint/Garage.Logic.dll
+/Users/leo/Documents/Programmieren/PROO/CS/06_Garage/Garage.Logic/obj/Debug/net7.0/Garage.Logic.pdb
+/Users/leo/Documents/Programmieren/PROO/CS/06_Garage/Garage.Logic/obj/Debug/net7.0/ref/Garage.Logic.dll
